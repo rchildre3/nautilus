@@ -8,7 +8,7 @@ default-run = "fuzzer"
 repository = "https://github.com/nautilus-fuzz/nautilus"
 
 [dependencies]
-nix = "0.17.0"
+nix = "0.23.1"
 time = "0.1"
 subprocess = "0.2.4"
 grammartec = {path = "../grammartec", version = "0.2"}
